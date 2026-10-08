@@ -1,24 +1,9 @@
-# TechNova - Página Web de Tecnología
+# TechNova - Página web multipágina
 
-Página web creada para un proyecto de Ingeniería de Plataformas Tecnológicas.
+Páginas: Inicio, Nosotros, Productos y Contacto.
 
-## Integrantes
-- Steven Matute
-- Danny Guachi
+Productos incluidos: Cloud Computing, Ciberseguridad, Redes Inteligentes y Desarrollo de Software.
 
-## Secciones
-- Inicio
-- Nosotros
-- Productos (4 productos con imágenes y descripción)
-- Contacto
+Para GitHub Pages: sube todos los archivos manteniendo la carpeta `img`; luego ve a Settings > Pages > Deploy from a branch > main > / (root) > Save.
 
-## Publicar en GitHub Pages
-1. Crea un repositorio en GitHub.
-2. Sube todos los archivos y la carpeta `img`.
-3. Ve a **Settings > Pages**.
-4. En **Build and deployment**, selecciona **Deploy from a branch**.
-5. Selecciona `main` y la carpeta `/ (root)`.
-6. Guarda y espera a que GitHub genere el enlace.
-
-## Importante
-Los correos mostrados en la sección Contacto son editables. Cambia el correo de Danny por el correo real de tu socio antes de publicar.
+Integrantes: Steven Matute y Danny Guachi, Ingenieros de Plataformas Tecnológicas.

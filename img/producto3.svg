@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#064e3b"/><stop offset="1" stop-color="#0ea5e9"/></linearGradient></defs>
+<rect width="800" height="500" rx="35" fill="url(#g)"/>
+<rect x="120" y="95" width="560" height="305" rx="25" fill="#062b2b" stroke="#5eead4" stroke-width="5"/>
+<rect x="160" y="135" width="480" height="205" rx="15" fill="#021b1b"/>
+<path d="M205 285 Q280 205 350 270 T495 225 T600 170" fill="none" stroke="#2dd4bf" stroke-width="10"/>
+<circle cx="350" cy="270" r="10" fill="#f0fdfa"/><circle cx="495" cy="225" r="10" fill="#f0fdfa"/>
+<text x="400" y="430" fill="#ccfbf1" font-size="34" text-anchor="middle" font-family="Arial" font-weight="bold">Redes Inteligentes</text>
+</svg>

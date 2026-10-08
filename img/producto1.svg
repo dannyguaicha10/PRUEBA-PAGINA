@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<rect width="800" height="500" rx="35" fill="url(#g)"/><circle cx="650" cy="110" r="95" fill="#38bdf8" opacity=".18"/>
+<rect x="105" y="100" width="590" height="300" rx="22" fill="#0b1220" stroke="#60a5fa" stroke-width="5"/>
+<rect x="145" y="140" width="510" height="205" rx="12" fill="#111827"/>
+<path d="M190 285 L270 215 L335 260 L430 175 L520 250 L600 195" fill="none" stroke="#38bdf8" stroke-width="10"/>
+<circle cx="270" cy="215" r="8" fill="#fff"/><circle cx="430" cy="175" r="8" fill="#fff"/>
+<text x="400" y="375" fill="#e0f2fe" font-size="34" text-anchor="middle" font-family="Arial" font-weight="bold">Cloud Computing</text>
+</svg>
